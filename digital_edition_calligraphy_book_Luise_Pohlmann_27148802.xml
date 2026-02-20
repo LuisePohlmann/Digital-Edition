@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> Digital Edition of the Alphabet of ornamental capitals used as initials in specimen pages of calligraphy by John Scottowe. Edited by Luise Pohlmann</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Georg-August university Goettingen</publisher>
+        <pubPlace>Goettingen</pubPlace>
+        <date when="">13 September 2025</date>
+        <idno type="filename">digital_edition_calligraphy_book_Luise_Pohlmann_27148802.xml</idno>
+        <availability status="free">
+        <p>Copyright 2025. The text is freely available provided the text is distributed with the header information provided. <ref traget="https://creativecommons.org/licenses/by/4.0/">Attribution 4.0 International CC BY 4.0</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <country>United States of America</country>
+            <settlement>Chicago</settlement>
+            <repository>Newberry Library</repository>
+            <collection>C. L. Ricketts Calligraphy Collection</collection>
+            <idno>VAULT Wing MS ZW 545 .S431</idno>
+          </msIdentifier>
+          <msContents>
+            <msItem>
+              <title>Alphabet of ornamental capitals used as initials in specimen pages of calligraphys</title>
+              <author xml:lang="en"> <surname>Scottowe</surname>, <forename>John</forename> </author>
+              <date>1592</date>
+              <textLang mainLang="en">English</textLang>
+              <summary>The book contains 23 folios for letters of the alphabet (A,C,D,E,F,G,H,I,K,L,M,N,O,P,Q,R,S,T,V,W,X,Z). The first leaf is a flyleaf, then each page contains an intricately designed inital followed by a proverb of edifying literature, 
+              the first line of which is written in gothic script, the second and third line in a cursive script. The proverbs are often cut short so as not to exceed the three lines.</summary>
+            </msItem>
+          </msContents>
+          <history>
+            <origin><p>Written in <origDate>1592</origDate></p></origin>
+          </history>
+          <physDesc>
+            <objectDesc>
+              <form>codex</form>
+            </objectDesc>
+            <supportDesc>
+              <material function="support">Paper</material>
+              <support> 
+              <p> Modern leather bindig with a stamp of the <stamp>Newberry library</stamp> on the inside of the cover.</p>
+              </support>
+              <extent type="leavesCount"> 23
+                <dimensions type="leaves">
+                  <height min="15" max="15" unit="cm"/>
+                  <width min="20" max="20" unit="cm"/>
+                </dimensions>
+              </extent>
+              <foliation xml:id="modern">
+                <p>Foliated in pencil in the top right corner of each recto page.</p>
+              </foliation>
+              <condition>
+                <p>The first leaf of the manuscript is darkened. The corners of th manuscript are brittle, 
+                darkened and sometimes torn from use. The folios <locus>ff. 2-7,  13-15, 22, 23</locus> 
+                show signs of damage from mould and foxing on both their recto and verso pages.</p>
+              </condition>
+            </supportDesc>
+            <layoutDesc>
+              <layout columns="2" ruledLines="5" writtenLines="3-5">
+              <p>Each folio consists of a captial letter filling the left side of the page and 3 to 5 lines of text. Often the first line is written in a larger, more decorative hand, while the following are smaller and less finely executed.
+                On each folio there are 4-5 ruled lines in light brown ink as well as two vertical lines to the left and two vertical lines to the right of the text (not the initial). Additionally, there are horizontal line at about 1/3 of the folio where 
+                the text beginnings and 3/4 of the folio, below the end of the text.  </p>
+              </layout>
+            </layoutDesc>
+            <handDesc>
+              <handNote xml:id="hand1" scriptRef="#style-1" scribe="John Scotttowe" script="decorative">These decorative initials range from zoomorphic e.g. the letter M <locus>f. 15r</locus> , over historiated e.g. the letter Q, <locus>f. 11r</locus> to floral e.g. the letter h <locus>f. 7r</locus> .</handNote>
+              <handNote xml:id="hand2" scriptRef="#style-2" scribe="John Scotttowe" script="Gothic">Gothic script with diamond shapes on the ends of the minims, which are also curved to the right on the baseline. Single-compartment a, long s sits on the baseline, flat-topped g, uncial d, that is sloped to the left, tthe lobe of the e is closed. </handNote>
+              <handNote xml:id="hand3" scriptRef="#style-3" scribe="John Scotttowe" script="decorative">Decorative script with lopped ascenders and descenders that go far below the baseline and often end in flourishes. Single-compartment a, flat-topped g, uncial d, that is sloped to the left. The lobe of the e is open or there is a space between the open-lobed e and its closing stroke.</handNote>
+              <handNote xml:id="hand4" scriptRef="#style-4" scribe="John Scotttowe" script="Secretary">Secretary hand with flags on the ascenders. Two compartment a, 8-shaped g and or-ligature.</handNote>
+              <handNote xml:id="hand5" scriptRef="#style-5" scribe="John Scotttowe" script="decorative">The letters are interrupted at half of the x-height and connected by small loops. Additionally the script has very high ad straight ascenders that are decorated witha swooping line that crosses the ascenders once. Loops on some of the descenders. Single-compartment a, closed e, and long s, that sits on the baseline.</handNote>
+              <handNote xml:id="hand6" scriptRef="#style-6" scribe="John Scotttowe" script="decirative">The letters are interrupted at half of the x-height and the minims end in diamond shapes, the letter forms are similar to #hand5.</handNote>
+              <handNote xml:id="hand7" scriptRef="#style-7" scribe="John Scotttowe" script="decorative">Capitalis letters, that are used in small writing inside the initals, modern letter forms.</handNote>
+              <handNote xml:id="hand8" scriptRef="#style-8" scribe="John Scotttowe" script="decorative">A thin, straight script with curled ascenders and descenders. Single compartment a, two forms of s (long s, that goes below the baseline in the middle and modern s at the end of words)</handNote>
+              <handNote xml:id="hand9" scriptRef="#style-9" scribe="John Scotttowe" script="decorative">A straight, round script with  significant shading. The ascenders and descenders are short. Two compartment a, closed-lobed e, long s, that sits on the baseline.</handNote>
+              <handNote xml:id="hand10" scriptRef="#style-10" scribe="John Scotttowe" script="decorative">Majiscule letters with curling ascenders, descenders. </handNote>
+              <handNote xml:id="hand11" scriptRef="#style-11" scribe="John Scotttowe" script="decorative">Miniscule letters with curly ascenders, descenders. L with loops at the top, ss ligature, which looks like German ß. Single-compartment a, closed-lobed e, long-s, that goes below the baseline.</handNote>
+            </handDesc>
+            <decoDesc>
+              <decoNote type="initial">
+                <p>The start of each leaf has an 8-line (script #style-1) illuminated initial in black (<locus>ff. 1-9r, 11-18r, 20-21r, 23r </locus>) or red and black (<locus>ff. 10r, 19r, 22r</locus>) ink. Initials can be historiated, zoomorphic, or floral.</p>
+              </decoNote>          
+            </decoDesc>
+            <bindingDesc>
+              <binding contemporary="false">
+              <p> Modern leather binding for the front and back cover and two modern flyleaves</p>
+              </binding>
+            </bindingDesc>
+          </physDesc>
+        </msDesc>     
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <projectDesc>
+        <p>This is a student project to create a digital edition of an Alphabet of ornamental capitals used as initials in specimen pages of calligraphy. The project was undertaken by Luise Pohlmann for the "Digital Editions" class of Mr. Jeremy Thompson in the summer semester 2025 (completed 30.08.2025) at the university of Goettingen, Germany as part of the study programm Digital Humanities M.A.. The aim of the project is to create a high quality XML-edition to practice XML transcription for future projects.</p>
+      </projectDesc>
+      <editorialDecl>
+         <normalization method="markup" source="http://www.oed.com/"><p>Spelling has been modernised using the <orig></orig> / <subst></subst> elements, wrapped in a <choice></choice> element, e.g. the letters u and v have been differentiated.
+          The Latin et is transcribed in its orginal form, mostly as an ampersand. At the back of the book there are three folios, on which various letter forms have been practiced. Here a row of minims which cannot be assigned to be i, u, n, or m are transcribed as a row of i.</p>
+         </normalization>
+        <correction method="markup"><p>Apparent errors have been corrected using the <sic></sic> / <corr></corr> elements, wrapped in a <choice> </choice> element.</p></correction>
+        <hyphenation eol="none"><p>Both End-of-line hyphenation and In-Text hyphenation have been retained.</p></hyphenation>
+        <interpretation><p>Places, names of persons, dates and occupations are marked by the appropriate tags (placeNme, persName, occpuation, date), historical context is added in the notes.</p></interpretation>
+      </editorialDecl>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>  
+        <language ident="la">Latin</language>
+        <language ident="en">English</language>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <listChange>
+      <change when="2025-12-09">Revision of the transcription</change>
+      <change when="2025-11-09">Revision of the header</change>
+      <change when="2025-10-09">Second Revision of the editorial introduction</change>
+      <change when="2025-09-09">Revision of the editorial introduction</change>
+      <change when="2025-08-25">First draft editorial introduction</change>
+      <change when="2025-08-18">Descriptions of the initials</change>
+      <change when="2025-08-14">Descriptions and classifications of the hands</change>
+      <change when="2025-08-14">Revision of the transcription</change>
+      <change when="2025-08-13">First Revision of the header</change>
+      <change when="2025-06-12">First transcription of the text</change>
+      <change when="2025-06-05">Created header and document structure</change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+
+  <text>
+    <front>
+      <div type="Editorial_Introduction" xml:id="ed_int" resp="editor">
+        <head>Editorial Introduction</head>
+        <p>This editorial introduction will cover both important information on the history, the content, and the context of the manuscript, as well as the principles that guided the 
+        creation of this edition. The introduction is divided into four parts, and covers the topics: editorial principles, the author, background to the original publication, and content and sources. </p>
+          <div type="The Author" xml:id="ed_int_1" resp="editor">
+            <head>The Author</head>
+            <p><persName>John Scottowe</persName> (d.<date>1607</date>), also known as "the writing master of <placeName>Norwich</placeName>" was a <occupation>calligrapher and schoolmaster</occupation> (Backhouse 1974). He is the author of multiple alphabet books with ornate capitals. 
+              As a penman and teacher in <placeName>England</placeName> during the reign of <persName>Elizabeth I</persName>, his books include edifying or practical passages of text written for schoolchildren. Only two of his manuscripts have survived, one being the here discussed 
+              Chicago, Newberry Library, VAULT Wing MS ZW 545 .S431. The other, London, British Library, Harleian Ms. 3885, is similar in design and content but features different illuminations of the initials.
+            </p>
+          </div>
+    
+          <div type="background" xml:id="ed_int_2" resp="editor">
+            <head>Background to the Original Publication</head>
+            <p> 
+              The Newberry alphabet book was published in <date>1592</date> as the adendmum on the verso of <locus>folio 24</locus> indicates. Next to the date on this folio, there is also the author's declaration: "per me Johannem Scottowe" written in Gothic script in a banner.
+              The manuscript has no title page but instead starts immediately with the letter A, the contemporary binding that may have contained a title page is lost and the book is bound in a modern leather binding with paper flyleaves. The manuscript was presumably written in <placeName>Norwich</placeName>, as 
+              this is where <persName>John Scottowe</persName> lived and worked. Additionally, there are hints to places around Norwich throughout the manuscript.             
+              Located at the East coast of <placeName>England</placeName>, <placeName>Norwich</placeName> was an important centre for commerce in the Middle Ages, while also boasting a vibrant religious life. The city was second in importance to <placeName>London</placeName> in the <date>13th and 14th century</date>.
+              The wealth generated by the wool trade throughout the Middle Ages financed the construction of many fine churches. During the reign of <persName>Elizabeth I.</persName>, the city saw an influx of immigrants mainly from the Low Countries (Encyclopedia Britannica. 2025). 
+              This era also saw an increase in the number of children that received a formal education, although schools were still reserved for those who were able to pay for tuition (Cartwright 2020). It is likely that <persName>John Scottowe</persName> taught in a 
+              preparatory school (also known as ABC, alphabet or 'petty' school). Here children learned the alphabet and communal reading. Only when they had mastered these skills did they move on to mathematics. Teachers, like <persName>John Scottowe</persName>, had few materials to help them in their work.
+              Often they would create their own alphabet cards, and the Newberry manuscript may have been used in this way. However, the intricately designed initials are too ornate to have been designed only for use in school. It is more likely that the work was created as a demonstration of <persName>Scottowe's</persName>
+              expert penmanship. It may also have been used as a pattern book, which other scribes copied from when creating luxury books. For example, <persName>Scottowe's</persName> books may have been used in the creation of five-volume partbook set Oxford, Bodleian Library, Mss. Mus.e.1–5. 
+            </p>
+            </div>
+            <div type="Content" xml:id="ed_int_3" resp="editor">
+              <head>Content and Sources</head>
+              <p> Pattern books like this manuscript were common in the Middle Ages as they were at once the blueprint, which scribes copied from, and a display of an artist's or workshop's skills, which could be shown to potential patrons. Books such as <persName>Scottowe's</persName>
+                  at once helped their owners to learn different scripts and imparted moral instruction. His style "hearkens back to Burgundian manuscripts of the late fifteenth century" (Backhouse 1974). Living under the rule of <persName>Queen Elizabeth I.</persName>, <persName>Scottowe</persName> 
+                  honours the Queen by listing her official titles on <locus>folio 15r</locus> next to the initial "Q". The illuminations contain further references to the time period, for example, the "Q" in the Newberry manuscript and the letter "T" in the British Library manuscript contain an image of the 
+                  Elizabethan clown <persName><name>Richard Tarleton</name> <name type="variant">Richard Tarlton</name></persName>depicted with his drum. <persName>Tarleton</persName> was a member of the Queen’s Men (also called The Queen’s Players, Queen Elizabeth’s Men, or The Queen’s Majesty’s Players) 
+                  at court. He was presumably quite popular as following his death caused by the plague in <date>1588</date>, multiple songs were written in his memory. <persName>Scottowe</persName> must have copied the illustration from a woodcut, used to illustrate a broadside ballad, but today only <persName>Scottowe's</persName> 
+                  copy remains (Pittaway 2021). <br/>
+                  Some of the text passages end abruptly, and the sentences remain unfinished. This may be because <persName>Scottowe</persName> wanted to adhere to his layout and not let the number of lines per page vary to much. It also shows that these proverbs may have been well-known at the time of writing. 
+                  Presumably, the reader would be able to finish the sentence themselves. Although I was unable to find any of the passages online, it is plausible that <persName>Scottowe</persName> copied them from another contemporary book.
+              </p>
+            </div>
+            <div type="Editorial_Principles" xml:id="ed_int_4" resp="editor">
+            <head>Editorial Principles</head>
+            <div type="Editorial_Principles_transcription_style" xml:id="ed_int_4_1" resp="editor">
+              <head>General transcription style </head>
+                <p>  
+                  This digital edition was edited using TEI-XML, as it is the current standard for digital editions. TEI-XML gives great flexibility and allows for an infinite number of details. For this transcription 
+                  I chose a diplomatic transcription style, as I wanted to find a balance between making the text more accessible for people not versed in Medieval English handwriting and staying true to the original.
+                </p>
+              </div>
+              <div type="Editorial_Principles_letter_forms" xml:id="ed_int_4_2" resp="editor">
+                <head>Letter Forms and Abbreviations</head>
+                <p>
+                  As it was common for scribes to be versed in Latin in the Middle Ages, it is not uncommon that the language of the text passages on each folio alternates between English and Latin. 
+                  There are two letters in Medieval English that are two different characters today. Firstly, in the <date>16th century</date> there was no difference between the letters I and J. J was often used for capitals 
+                  and i in the middle of words. Secondly, the letters u nd v were also considered the same (Cartwright 2020). In this manuscript, some of the scripts have separate letter forms for u and v, 
+                  although these scripts use them interchangeably. Other scripts do not differentiate at all using only one letterform (mostly u). In both cases, I have tried to increase legibility by transcribing the letters in their modern spellings 
+                  but marking the places in which I made changes. I have also chosen to spell out abbreviations. For example, a p with a line in the descender is an abbreviation of per. In the scripts of the manuscript, there are hardly any ligatures 
+                  as each letter is carefully spaced equidistantly to its neighbours, in the few cases where there are ligatures they have been marked and expanded.
+                </p>
+              </div>
+              <div type="Editorial_Principles_hands" xml:id="ed_int_4_3" resp="editor">
+                <head>Hands and Initials</head>
+                <p>
+                  A key component of the original manuscript is the multitude of different hands and the beautifully illuminated initials on each folio. In this edition, I wanted to pay tribute to the many different styles of script 
+                  <persName>Scottowe</persName> writes so masterfully. As the hands are one of the key features of the alphabet book I note the hand used for each part of the text. Additionally, each hand is
+                  described in the handDesc in the header of this edition. For all hands a palaeographical description has been provided, as sometimes the same text type (i.e. Gothic script) can be executed very differently 
+                  and naming conventions such as "court hand" did not prove sufficient to accomodate the variantions in hands. <persName>Janet Backhouse</persName> in her edition of two of <persName>Scottowe's</persName>
+                  alphabet books identified the scripts in the work as "accomplished specimens of contemporary scripts, italic, roman, secretary, court, and some more purely decorative text hands" (Backhouse 1974, 5). I follow her classification
+                  but also provide descriptions of the scripts she has grouped as decorative hands.<br/>
+
+                  The main element of the alphabet book, the illuminated initials, are hardly done justice by their transcription as a single letter. To better show their size on the page and their importance, I split the page into two columns, 
+                  allowing the initials to take up the entirety of the left column, as they do in the original manuscript. While this is closer to the original layout of the manuscript, it cannot fully capture the way the initials surround the text on 
+                  the page often stretching into the right-hand side column at the top and bottom of the page. Therefore, I provide links to the facsimile pages on the Newberry Library's website, allowing readers to easily navigate the facsimile and view the original illuminations. 
+            </p>
+          </div>
+          </div>
+          <div type="Comments" xml:id="ed_int_4_4" resp="editor">
+            <head>Types of Comments</head>
+              <p>
+                In this edition, all places and persons are marked. Whenever possible, I have tried to provide additional information on the persons and places mentioned in the form of footnotes.
+                The additional information supplied in these notes varies from contextual knowledge, which supplies information in the context of the manuscript, linking folios to each other
+                and bibliographical information, which gives interesting insights into the time period in which the manuscript was produced.
+              </p>
+            </div>
+            <div type="Bibliography" xml:id="ed_int_5" resp="editor">
+              <head>Bibliography</head>
+              <list> 
+                <item>
+                  <bibl>
+                    <author>Backhouse, Janet</author>, ed. 1974. 
+                    <title>John Scottowe's Alphabet Books</title>. 
+                    Ilkley, England: Roxburghe Club at the Scolar Press.
+                  </bibl>
+                </item>
+                <item>
+                  <bibl>
+                    <author>Cartwright, Mark</author>. 2020. 
+                    “Education in the Elizabethan Era.” 
+                    <title>World History Encyclopedia</title>. 
+                    <ref target="https://www.worldhistory.org/article/1583/education-in-the-elizabethan-era/">
+                      https://www.worldhistory.org/article/1583/education-in-the-elizabethan-era/
+                    </ref>.
+                  </bibl>
+                </item>
+                <item>
+                  <bibl>
+                    <author>Encyclopedia Britannica</author>. 2025. 
+                    “Norwich | England, Map, Population, &amp; History | Britannica.” 
+                    Accessed August 25, 2025. 
+                    <ref target="https://www.britannica.com/place/Norwich-England">
+                      https://www.britannica.com/place/Norwich-England
+                    </ref>.
+                  </bibl>
+                </item>
+                <item>
+                  <bibl>
+                    <author>Pittaway, Ian</author>. 2021. 
+                    “Tarleton’s Resurrection. Part 4/4: Tributes to Tarleton: With a Musical Discovery from the 16th Century.” 
+                    <ref target="https://earlymusicmuse.com/tarletonsresurrection_newdiscovery/">
+                      https://earlymusicmuse.com/tarletonsresurrection_newdiscovery/
+                    </ref>.
+                  </bibl>
+                </item>
+              </list>
+            </div>
+        </div>
+      </front>
+    <body>
+      <facsimile xml:id="msImages">
+        <surface xml:id="frontcover_modern_leather_binding" n="1" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9I7UB?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="inner_cover_modern_binding" n="2" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IUWI?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="flyleaf_front_1_modern_binding_recto" n="3" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE06HGL?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="flyleaf_front_1_modern_binding_verso" n="4" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9U0_8?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="flyleaf_front_2_modern_binding_recto" n="5" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9UA_P?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="flyleaf_front_2_modern_binding_verso" n="6" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9I1OU?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_1_recto" n="7" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE06FEA?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_1_verso" n="8" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE06IQE?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_2_recto" n="9" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IYFD?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_2_verso" n="10" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE06X5Z?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_3_recto" n="11" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE901SU?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_3_verso" n="12" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SHOP?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_4_recto" n="13" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE904MW?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_4_verso" n="14" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IAGQ?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_5_recto" n="15" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IWR4?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_5_verso" n="16" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IX47?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_6_recto" n="17" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90AOQ?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_6_verso" n="18" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90UFI?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_7_recto" n="19" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90SU2?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_7_verso" n="20" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9I47W?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_8_recto" n="21" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SUHI?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_8_verso" n="22" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SGR8?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_9_recto" n="23" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9S2AW?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_9_verso" n="24" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9I58X?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_10_recto" n="25" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IKDI?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_10_verso" n="26" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9S6PK?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_11_recto" n="27" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90HIP?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_11_verso" n="28" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9I3ZO?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_12_recto" n="29" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IZS5?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_12_verso" n="30" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9S5CX?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_13_recto" n="31" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SVK1?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_13_verso" n="32" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IOQR?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_14_recto" n="33" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SJ42?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_14_verso" n="34" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SQJ9?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_15_recto" n="35" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9I827?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_15_verso" n="36" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IIXX?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_16_recto" n="37" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SS22?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_16_verso" n="38" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90011?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_17_recto" n="39" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SC7K?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_17_verso" n="40" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SFIO?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_18_recto" n="41" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90NBQ?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_18_verso" n="42" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IPKB?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_19_recto" n="43" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90BCR?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_19_verso" n="44" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SDY4?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_20_recto" n="45" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IJC2?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_20_verso" n="46" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9I9I9?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_21_recto" n="47" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IS62?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_21_verso" n="48" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9ITH8?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_22_recto" n="49" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9S807?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_22_verso" n="50" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IB9R?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_23_recto" n="51" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9IHEP?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="folio_23_verso" n="52" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90909?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="flyleaf_back_1_modern_binding_recto" n="53" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9ID14?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="flyleaf_back_1_modern_binding_verso" n="54" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9SMBP?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="flyleaf_back_2_modern_binding_recto" n="55" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90PEB?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="flyleaf_back_2_modern_binding_verso" n="56" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90T98?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="inner_backcover_modern_binding" n="57" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE90CDK?WS=SearchResults"/>
+        </surface>
+        <surface xml:id="backcover_modern_leather_binding" n="58" ulx="0" uly="0" lrx="4524" lry="3477">
+          <zone xml:id="leftColumn" ulx="0" uly="0" lrx="2262" lry="3477"/>
+          <zone xml:id="rightColumn" ulx="2263" uly="0" lrx="4524" lry="3477"/>
+          <graphic url="https://collections.newberry.org/asset-management/2KXJ8ZSE9S1FU?WS=SearchResults"/>
+        </surface>
+      </facsimile>
+
+      <div type="page" n="1">
+        <pb ed="ms" n="1r" facs="#folio_1_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_1_recto#leftColumn" hand="#hand1">A</ab>
+          <cb n="2"/>
+          <ab facs="#folio_1_recto#leftColumn" hand="#hand7">feare god</ab>
+          <ab facs="#folio_1_recto#rightColumn" hand="#hand2"><lb/>wise manne is</ab>
+          <ab facs="#folio_1_recto#rightColumn" hand="#hand3"><lb/>knowne by three poyntes. For makinge his enemies
+          <lb/>his frindes. In reforminge the evill unto goodnes.
+          <lb/>zrt</ab>
+        </p>
+      </div>
+      <div type="page" n="2">
+        <pb ed="ms" n="2r" facs="#folio_2_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_2_recto#leftColumn" hand="#hand1">C</ab>
+          <cb n="2"/>
+          <ab facs="#folio_2_recto#rightColumn" hand="#hand2"><lb/>ommit not the go</ab>
+          <ab facs="#folio_2_recto#rightColumn" hand="#hand3"><lb/><choice><orig>uernaunce</orig><subst>vernaunce</subst></choice> of the people to a rouctouse manne nor to an
+          <lb/>hastie personne, but to the learned and prudente zt</ab>
+        </p>
+      </div>
+      <div type="page" n="3">
+        <pb ed="ms" n="3r" facs="#folio_3_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_3_recto#leftColumn" hand="#hand1">d</ab>
+          <cb n="2"/>
+          <ab facs="#folio_3_recto#rightColumn" hand="#hand2"><lb/>elightes which ar</ab>
+          <ab facs="#folio_3_recto#rightColumn" hand="#hand3"><lb/>in vertue founde Immortall ioye dothe bringe but
+          <lb/>pleasures that in vite abounde of sorrowes ar the spring </ab>
+        </p>
+      </div>
+      <div type="page" n="4">
+        <pb ed="ms" n="4r" facs="#folio_4_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_4_recto#leftColumn" hand="#hand1">E</ab>
+          <cb n="2"/>
+          <ab facs="#folio_4_recto#rightColumn" hand="#hand5"><lb/>steme him as much</ab>
+          <ab facs="#folio_4_recto#rightColumn" hand="#hand3"><lb/>That teacheth the one woorde of wisedome as if hee
+          <lb/><choice><orig>gaue</orig><subst>gave</subst></choice> the aboundannce of goulde and treasure zrt </ab>
+        </p>
+      </div>
+      <div type="page" n="5">
+        <pb ed="ms" n="5r" facs="#folio_5_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_5_recto#leftColumn" hand="#hand1">F</ab>
+          <cb n="2"/>
+          <ab facs="#folio_5_recto#rightColumn" hand="#hand2"><lb/>rindes in <choice><orig>aduersite</orig><subst>adversite</subst></choice></ab>
+          <ab facs="#folio_5_recto#rightColumn" hand="#hand3"><lb/>are a refuge and in prosperitie a pleasure and.
+          <lb/>also a delight to communycate one pleasures wall</ab>
+        </p>
+      </div>
+      <div type="page" n="6">
+        <pb ed="ms" n="6r" facs="#folio_6_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_6_recto#leftColumn" hand="#hand1">G</ab>
+          <cb n="2"/>
+          <ab facs="#folio_6_recto#rightColumn" hand="#hand2"><lb/><choice><orig>geue</orig><subst>geve</subst></choice> not thy mynde</ab>
+          <ab facs="#folio_6_recto#rightColumn" hand="#hand3"><lb/>to reade suche thinges, as are but vite and vayne. But
+          <lb/>exercise thy wit in bookes that wisedome doo contayn.</ab>
+        </p>
+      </div>
+      <div type="page" n="7">
+        <pb ed="ms" n="7r" facs="#folio_7_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_7_recto#leftColumn" hand="#hand1">H</ab>
+          <cb n="2"/>
+          <ab facs="#folio_7_recto#rightColumn" hand="#hand2"><lb/><persName>umfrie Briante</persName></ab>
+          <ab facs="#folio_7_recto#rightColumn" hand="#hand3"><lb/>with my hartie commendacione unto yow and unto
+          <lb/>my frinde <persName>Edmunde Bannester</persName> <choice><orig>geuinge</orig><subst>gevinge</subst></choice> you zt</ab>
+        </p>
+      </div>
+      <div type="page" n="8">
+        <pb ed="ms" n="8r" facs="#folio_8_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_8_recto#leftColumn" hand="#hand1">I</ab>
+          <cb n="2"/>
+          <ab facs="#folio_8_recto#rightColumn" hand="#hand2"><lb/>n moste humble and la
+          <lb/>mentable manner she
+          <lb/>ithe and complaynith</ab>
+        </p>
+      </div>
+      <div type="page" n="9">
+        <pb ed="ms" n="9r" facs="#folio_9_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_9_recto#leftColumn" hand="#hand1">K</ab>
+          <cb n="2"/>
+          <ab facs="#folio_9_recto#rightColumn" hand="#hand2"><lb/>nowe all menne by theise
+          <lb/>presentes that I <persName>William</persName>
+          <lb/><persName>Lemman of <placeName>Honing</placeName></persName></ab>
+        </p>
+      </div>
+      <div type="page" n="10">
+        <pb ed="ms" n="10r" facs="#folio_10_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_10_recto#leftColumn" hand="#hand1">L</ab>
+          <cb n="2"/>
+          <ab facs="#folio_10_recto#rightColumn" hand="#hand7"><lb/>live to be good
+          <lb/>Blessed be the pore in spirit</ab>
+          <ab facs="#folio_10_recto#rightColumn" hand="#hand2"><lb/>amentablie complay-
+          <lb/>ninge unto youre
+          <lb/>moste honorable good</ab>
+        </p>
+      </div>
+      <div type="page" n="11">
+        <pb ed="ms" n="11r" facs="#folio_11_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_11_recto#leftColumn" hand="#hand1">M</ab>
+          <cb n="2"/>
+          <ab facs="#folio_11_recto#rightColumn" hand="#hand1"><lb/>ALEAS J Re
+          <lb/>S. TREASUre</ab>
+        </p>
+      </div>
+      <div type="page" n="12">
+        <pb ed="ms" n="12r" facs="#folio_12_recto"/>
+        <p lang="la">
+          <cb n="1"/>
+          <ab facs="#folio_12_recto#leftColumn" hand="#hand1">N</ab>
+          <cb n="2"/>
+          <ab facs="#folio_12_recto#rightColumn" hand="#hand4"><lb/>ommit pomull <choice><orig>p</orig><expan>per</expan></choice> <choice><orig>psentes</orig><expan>presentes</expan></choice> me <persName>Chomman Harmann</persName> de
+          <lb/><placeName>Wynterton</placeName> in com fsorff yeomann teneris et firm
+          <lb/>obligaris <persName>Willino Hemmyng</persName> de <placeName>Cromers</placeName> in fom.</ab>
+        </p>
+      </div>
+      <div type="page" n="13">
+        <pb ed="ms" n="13r" facs="#folio_13_recto"/>
+        <p lang="la">
+          <cb n="1"/>
+          <ab facs="#folio_13_recto#leftColumn" hand="#hand1">O</ab>
+          <cb n="2"/>
+          <ab facs="#folio_13_recto#rightColumn" hand="#hand12"><lb/>mnibus chrsiti</ab>
+          <ab facs="#folio_13_recto#rightColumn" hand="#hand2"><lb/>fidelibus ad quos hoc <choice><orig>psens</orig><expan>presens</expan></choice> scriptum <choice><orig>uenerit</orig><expan>pervenerit</expan></choice><note type="contextual">A common Latin phrase in medieval England. Also found on folio 19 recto.</note> <persName>Johann</persName>
+          <lb/><persName><lg><seg type="ligature">q</seg><seg type="ligature">u</seg></lg>annyng de <placeName>swanton</placeName></persName> saltin in dno sempiternam.</ab>
+        </p>
+      </div>
+      <div type="page" n="14">
+        <pb ed="ms" n="14r" facs="#folio_14_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_14_recto#leftColumn" hand="#hand1">P</ab>
+          <cb n="2"/>
+          <ab facs="#folio_14_recto#rightColumn" hand="#hand2"><lb/>leasithe it youre</ab>
+          <ab facs="#folio_14_recto#rightColumn" hand="#hand2"><lb/>honor to have in your rememberannce the long-
+          <lb/>attendannce and contynned service firste to</ab>
+        </p>
+      </div>
+      <div type="page" n="15">
+        <pb ed="ms" n="15r" facs="#folio_15_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_15_recto#leftColumn" hand="#hand1"><persName>Q</persName></ab>
+          <cb n="2"/>
+          <ab facs="#folio_15_recto#rightColumn" hand="#hand10"><lb/><persName>UEENE OF ENGE-</persName>
+          <lb/><persName><choice><sic>LANE</sic><corr>LAN<add place="above">D</add>E</corr></choice> FRAUNCE ANd</persName>
+          <lb/><persName>IRELANDE</persName><note type="contextual">This refers to Queen Elisabeth I, who reigned durig the time John Scottowe wrote this.</note> DEFENdor</ab>
+          <ab facs="#folio_15_recto#rightColumn" hand="#hand8"><lb/>of the faithe &amp;.c.</ab>
+        </p>
+      </div>
+      <div type="page" n="16">
+        <pb ed="ms" n="16r" facs="#folio_16_recto"/>
+        <p lang="la">
+          <cb n="1"/>
+          <ab facs="#folio_16_recto#leftColumn" hand="#hand1">R</ab>
+          <cb n="2"/>
+          <ab facs="#folio_16_recto#rightColumn" hand="#hand10"><lb/>EVERENDO IN CHRISTO</ab> 
+          <ab facs="#folio_16_recto#rightColumn" hand="#hand11"><lb/><persName><name>patri Johanni</name><name type="variant">Prester John</name></persName><note type="biographical">Prester John is a figure of medieval legend. He is said to be a king, who ruled over a Christian nation lost amid pagans in the Orient.</note> permissione divina Lincolnium
+          <lb/>Episcopo vester humilis et denotus filius A.</ab> 
+        </p>
+      </div>
+      <div type="page" n="17">
+        <pb ed="ms" n="17r" facs="#folio_17_recto"/>
+        <p lang="la">
+          <cb n="1"/>
+          <ab facs="#folio_17_recto#leftColumn" hand="#hand1">S</ab>
+          <cb n="2"/>
+          <ab facs="#folio_17_recto#rightColumn" hand="#hand10"><lb/>CIANT PRESENTES</ab> 
+          <ab facs="#folio_17_recto#rightColumn" hand="#hand11"><lb/>et futuri <note type="contextual">The opening words of medieval legal documents </note> me <persName><name>Willinum Petersonne</name></persName> Mil
+          <lb/>dedisse concessisse &amp; hac presenti charta.<note type="contextual">"By this presented charta, i.e. the <term>Magna Charta</term>. The phrase is often used in medieval legal documents." </note></ab> 
+        </p>
+      </div>
+      <div type="page" n="18">
+        <pb ed="ms" n="18r" facs="#folio_18_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_18_recto#leftColumn" hand="#hand1">T</ab>
+          <cb n="2"/>
+          <ab facs="#folio_18_recto#rightColumn" hand="#hand9"><lb/>he <choice><orig>hauinge</orig><subst>havinge</subst></choice> of riches is not so com-
+          <lb/>modious as the departinge frome
+          <lb/>them is <choice><orig>greuous</orig><subst>grevous</subst></choice> saithe <persName><name>Hermes</name></persName> &amp;</ab> 
+        </p>
+      </div>
+      <div type="page" n="19">
+        <pb ed="ms" n="19r" facs="#folio_19_recto"/>
+        <p lang="la">
+          <cb n="1"/>
+          <ab facs="#folio_19_recto#leftColumn" hand="#hand1">U</ab>
+          <cb n="2"/>
+          <ab facs="#folio_19_recto#rightColumn" hand="#hand8"><lb/>niversis Christi fidelibus ad quos presentes<note type="contextual">A common Latin phrase in medieval England, also found on folio 13 recto.</note>
+          <lb/>littere <choice><orig>peruenerint</orig><subst>pervenerint</subst></choice><persName> <name>Johannes <placeName>Nottingham</placeName></name><name type="variant">John of <placeName>Nottingham</placeName></name></persName><note type="biographical">Alledgedly, John of Nottingham plotted to kill Edward II of England and Hugh Despenser the Younger in 1324 through witchcraft.</note>
+          <lb/>Dominus Manern de Honinge in Com</ab>
+        </p>
+      </div>
+      <div type="page" n="20">
+        <pb ed="ms" n="20r" facs="#folio_20_recto"/>
+        <p lang="en">
+          <cb n="1"/>
+          <ab facs="#folio_20_recto#leftColumn" hand="#hand1">W</ab>
+          <cb n="2"/>
+          <ab facs="#folio_20_recto#rightColumn" hand="#hand7"><lb/>hate no man viii</ab> 
+          <ab facs="#folio_20_recto#rightColumn" hand="#hand2"><lb/>illiam ffreman</ab>
+          <ab facs="#folio_20_recto#rightColumn" hand="#hand2"><lb/>with my hartie commendations unto yow
+          <lb/>theise are <choice><orig>geue</orig><subst>geve</subst></choice> yow to understande zc.</ab>
+        </p>
+      </div>
+      <div type="page" n="21">
+        <pb ed="ms" n="21r" facs="#folio_21_recto"/>
+        <p>
+          <cb n="1"/>
+          <ab facs="#folio_21_recto#leftColumn" hand="#hand1">X</ab>
+          <cb n="2"/>
+          <ab facs="#folio_21_recto#rightColumn" hand="#hand4"><lb/>Aiiiiii.a.a.biiiiiii bb. ciiiiiiii.cc.diiiiiiii.dd Eiiiiiiii. ee
+          <lb/>ffiiiiiiii.ff.Giiiiiiii.gg.hiiiiiiii.h.Iiiiiiiii.I.i.kiiiiiiii.kk.
+          <lb/>liiiiii.ll,l.oo.iii.p.iiii.Oiiiiiiii.oo.piiiii.p.piiiiiip.Q.q
+          <lb/>q.Riiiiii.W.Siiiiiii.S.stiii.st.stiiiiii.tt.Viii.v.W.y.yz </ab>
+        </p>
+      </div>
+      <div type="page" n="22">
+        <pb ed="ms" n="22r" facs="#folio_22_recto"/>
+        <p>
+          <cb n="1"/>
+          <ab facs="#folio_22_recto#leftColumn" hand="#hand1">Z</ab>
+          <cb n="2"/>
+          <ab facs="#folio_22_recto#rightColumn" hand="#hand2"><lb/>Ammmmm.a.A.a.A.a.B.b.B.b.Ccc.D.d.d.
+          <lb/>D.d.D.d.E.ee.E.e.ffmmm.f.f.G.g.G.g.
+          <lb/>h.h.h.h i.I.i.I.i.km.k.k.L.ll.l.L.ll.l.m.
+          <lb/>m.N.nn.n.O oo O.o. P.pp.P.p.Q.q.q
+          <lb/>Rmmm.r.r.S.s.S.s.st.st.st.t.t.v.w.x.y.z </ab>
+        </p>
+      </div>
+      <div type="page" n="23">
+        <pb ed="ms" n="23r" facs="#folio_23_recto"/>
+        <p>
+          <cb n="1"/>
+          <ab facs="#folio_23_recto#leftColumn" hand="#hand1">Y</ab>
+          <cb n="2"/>
+          <ab facs="#folio_23_recto#rightColumn" hand="#hand4"><lb/>A.a.AA.a.A.a.B.b.B.b.B.b.C.c.D.d.D.d
+          <lb/>E.e.E.e.E.e.F.f.ff.G.g.G.g.H.h.H.h.J
+          <lb/>J.i.K.k.k.k.Ll.l.L.ll.M.m.M.m.M.m.N.n.O.o.
+          <lb/>P.p.P.pp.Q.Q.q.Q.q.R.r.R.r.R.r.Ss.Tt.vwxyz</ab>
+        </p>
+      </div>
+      <div type="page" n="24">
+        <pb ed="ms" n="23v" facs="#folio_23_verso"/>
+        <p lang="la">
+          <ab hand="#hand2"><lb/>1592<lb/>per me Johannem Scottowe</ab>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
+
